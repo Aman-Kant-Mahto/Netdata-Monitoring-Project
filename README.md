@@ -84,19 +84,17 @@ cat /var/log/netdata/error.log
 
 1. **Docker Container Running**
 
-   > ![Screenshot - docker ps]<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1094c9b0-8586-4a6c-b373-7b429556dde8" />
-.
+   <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1094c9b0-8586-4a6c-b373-7b429556dde8" />
 
 2. **Netdata Dashboard**
 
-   > ![Screenshot - Dashboard]!(<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/764fd600-c058-4127-8f1c-f069069cf809" />
-)
-)
+  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/764fd600-c058-4127-8f1c-f069069cf809" />
+
 
 3. **System Metrics Panel**
 
-   > ![Screenshot - CPU/Memory/Disk](<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b7ef691c-152b-4e0c-8955-ea3701c396e1" />
-)
+   <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b7ef691c-152b-4e0c-8955-ea3701c396e1" />
+
 
 ---
 
