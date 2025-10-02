@@ -23,18 +23,7 @@ This project demonstrates how to monitor system and application performance metr
 ### 1️⃣ Run Netdata Container
 ```bash
 docker run -d --name=netdata \
-  -p 19999:19999 \
-  --cap-add=sys_ptrace \
-  --security-opt apparmor=unconfined \
-  -v netdataconfig:/etc/netdata \
-  -v netdatalib:/var/lib/netdata \
-  -v netdatacache:/var/cache/netdata \
-  -v /etc/passwd:/host/etc/passwd:ro \
-  -v /etc/group:/host/etc/group:ro \
-  -v /proc:/host/proc:ro \
-  -v /sys:/host/sys:ro \
-  -v /etc/os-release:/host/etc/os-release:ro \
-  netdata/netdata
+  -p 19999:19999 
 ````
 
 ### 2️⃣ Access the Dashboard
