@@ -22,8 +22,7 @@ This project demonstrates how to monitor system and application performance metr
 
 ### 1️⃣ Run Netdata Container
 ```bash
-docker run -d --name=netdata \
-  -p 19999:19999 
+docker run -d --name=netdata -p 19999:19999 netdata/netdata
 ````
 
 ### 2️⃣ Access the Dashboard
